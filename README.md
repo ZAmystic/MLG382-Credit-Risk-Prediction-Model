@@ -59,13 +59,15 @@ This project focuses on building a **Credit Risk Assessment System** that predic
 ---
 
 ## 🚀 How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/credit-risk-assessment.git
-   cd credit-risk-assessment
 
-2. Install Dependencies
+```bash
+# 1. Clone the repository
+git clone https://github.com/yourusername/credit-risk-assessment.git
+cd credit-risk-assessment
+
+# 2. Install dependencies
 pip install -r requirements.txt
 
-3. Run the dash app
+# 3. Run the Dash app
 python app.py
+
